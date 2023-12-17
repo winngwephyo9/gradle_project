@@ -8,3 +8,9 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/your-username/your-repo.git
 git push -u origin master
+
+
+
+# Configure Git User Information
+use java version 17
+use gradle version 8.5
